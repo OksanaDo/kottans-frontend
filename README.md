@@ -1,6 +1,12 @@
 # kottans-frontend
 
-Git та GitHub
+## Linux CLI, and HTTP
+
+<img width="1117" alt="Screenshot 2022-08-23 at 15 21 09" src="https://user-images.githubusercontent.com/103376025/187676794-3422c677-f013-48da-afb5-763ee42f4cad.png">
+
+It was very interesting to learn commands in Linux. I suppose to use them in my future activities. The articles were good and interesting. I can recommend community Kottans to include in this curriculum Lesson 56: HTTP Basics from Coursera - HTML, CSS, and Javascript for Web Developers (week 5). Video and articles together help to understand important issues in HTTP.
+
+#Git та GitHub
 
 Дуже цікавий і змістовний курс. Не можу сказати, що у мене все виходить, або виходить з першого разу, але я буду прагнути вчитися далі.
 Мені вдалось пройти курс git (не вперше, і як я бачу, не востаннє). Бачила, як красиво студенти прикріпили свої скріни (поняття не маю, як їх слід сюди впихнути). Готую менторів морально, що мої роботи треба буде перевіряти довго і нудно (або ж швидко, бо нічого не зрозуміло). О-ооо. Знайшла аттач файлз - зараз приаттачу.
