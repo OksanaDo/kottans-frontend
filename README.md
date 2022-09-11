@@ -1,5 +1,11 @@
 # kottans-frontend
 
+## Git Collaboration
+
+![image](https://user-images.githubusercontent.com/103376025/189539395-59e3fcea-890f-4fd3-8261-f8b13f253c5d.png)
+
+It was interesting for me to deep further in learning Git. This time in Corses 3 and 4 the command were more explicit and easier to understand. learngitbranching.js.org is very helpfull and actually was a lot of fun. Thank you for the recommendation An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min. I Have seen it previously on CS50 course, and step by step the Git becoming more familiar and useful in studing and, hopefully, in future work.
+
 ## Linux CLI, and HTTP
 
 <img width="1117" alt="Screenshot 2022-08-23 at 15 21 09" src="https://user-images.githubusercontent.com/103376025/187676794-3422c677-f013-48da-afb5-763ee42f4cad.png">
